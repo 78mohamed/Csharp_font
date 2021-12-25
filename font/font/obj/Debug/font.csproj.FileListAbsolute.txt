@@ -1,0 +1,12 @@
+E:\C#\solution\day8\font\font\bin\Debug\font.exe.config
+E:\C#\solution\day8\font\font\bin\Debug\font.exe
+E:\C#\solution\day8\font\font\bin\Debug\font.pdb
+E:\C#\solution\day8\font\font\obj\Debug\font.csproj.AssemblyReference.cache
+E:\C#\solution\day8\font\font\obj\Debug\font.csproj.SuggestedBindingRedirects.cache
+E:\C#\solution\day8\font\font\obj\Debug\font.Form1.resources
+E:\C#\solution\day8\font\font\obj\Debug\font.Properties.Resources.resources
+E:\C#\solution\day8\font\font\obj\Debug\font.csproj.GenerateResource.cache
+E:\C#\solution\day8\font\font\obj\Debug\font.csproj.CoreCompileInputs.cache
+E:\C#\solution\day8\font\font\obj\Debug\font.exe
+E:\C#\solution\day8\font\font\obj\Debug\font.pdb
+E:\C#\solution\day8\font\font\obj\Debug\font.Form2.resources
